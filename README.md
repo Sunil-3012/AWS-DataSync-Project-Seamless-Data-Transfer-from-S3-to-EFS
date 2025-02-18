@@ -51,18 +51,9 @@ Designed and implemented a **secure and automated data transfer solution** using
 - Ensured **data integrity and high availability** with **AWS IAM access control**.  
 - Optimized transfer efficiency using **AWS DataSync automation**.  
 
-### **Screenshots**  
+  
 
-#### **1. AWS DataSync Task Excution on CLI**  
-![DataSync Task CLI](/Users/gangupamusaisunil/AWS/projects/dataSync/DataSync-cli.jpeg)  
 
-#### **2. Data Transfer Progress in AWS Console**  
-![Data Transfer Progress](path/to/data-transfer-progress.png)  
-
-#### **3. Validated Data in Mounted EFS Directory**  
-![EFS Data Validation](path/to/efs-data-validation.png)  
-
-## Repository Structure  
   
 
 
